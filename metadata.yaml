@@ -1,0 +1,29 @@
+_repo: The-American-Quarterly-Review-No.-17-March-1831_28012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Walsh, Robert
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '33077'
+    url: http://www.gutenberg.org/2009/agents/33077
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Walsh_(diplomat)
+description: ''
+gutenberg_bookshelf: The American Quarterly Review
+gutenberg_issued: '2009-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Intellectual life -- 19th century -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Intellectual life -- Periodicals'
+title: The American Quarterly Review, No. 17, March 1831
+url: http://www.gutenberg.org/ebooks/28012
