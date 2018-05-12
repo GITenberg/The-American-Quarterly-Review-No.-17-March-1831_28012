@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33077
     wikipedia: http://en.wikipedia.org/wiki/Robert_Walsh_(diplomat)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28012#The-American-Quarterly-Review-No.-17-March-1831
 gutenberg_bookshelf: The American Quarterly Review
 gutenberg_issued: '2009-02-06'
 gutenberg_type: Text
